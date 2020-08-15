@@ -1,0 +1,13 @@
+@import "./assets/css/normalize.css";
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    color: #292929;
+}
+
+.App {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
